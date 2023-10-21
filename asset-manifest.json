@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/OxApp/static/css/main.2ba8843d.css",
+    "main.css": "/OxApp/static/css/main.7cc0d908.css",
     "main.js": "/OxApp/static/js/main.3ff7faee.js",
     "static/js/921.2ff6f0ae.chunk.js": "/OxApp/static/js/921.2ff6f0ae.chunk.js",
     "static/js/433.49b44a79.chunk.js": "/OxApp/static/js/433.49b44a79.chunk.js",
@@ -88,7 +88,7 @@
     "index.html": "/OxApp/index.html"
   },
   "entrypoints": [
-    "static/css/main.2ba8843d.css",
+    "static/css/main.7cc0d908.css",
     "static/js/main.3ff7faee.js"
   ]
 }
