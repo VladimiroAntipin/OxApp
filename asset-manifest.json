@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/OxApp/static/css/main.7cc0d908.css",
-    "main.js": "/OxApp/static/js/main.3ff7faee.js",
+    "main.css": "/OxApp/static/css/main.39ca146c.css",
+    "main.js": "/OxApp/static/js/main.c4bdc764.js",
     "static/js/921.2ff6f0ae.chunk.js": "/OxApp/static/js/921.2ff6f0ae.chunk.js",
     "static/js/433.49b44a79.chunk.js": "/OxApp/static/js/433.49b44a79.chunk.js",
     "static/js/364.09544afb.chunk.js": "/OxApp/static/js/364.09544afb.chunk.js",
@@ -49,6 +49,7 @@
     "static/js/836.74c3b330.chunk.js": "/OxApp/static/js/836.74c3b330.chunk.js",
     "static/media/bull-in-mine-cart.png": "/OxApp/static/media/bull-in-mine-cart.1eb8a2758c1512a427d4.png",
     "static/media/project-brief.pdf": "/OxApp/static/media/project-brief.250d0cc8b7af765a0873.pdf",
+    "static/media/how-to-buy-NFT-OxMiner.pdf": "/OxApp/static/media/how-to-buy-NFT-OxMiner.c7790a30483908251163.pdf",
     "static/media/location.png": "/OxApp/static/media/location.8b3ba873d91ef61c7669.png",
     "static/media/nfts-preview.png": "/OxApp/static/media/nfts-preview.267d29d247c4891dfaee.png",
     "static/media/bull-big.png": "/OxApp/static/media/bull-big.8ce0bc912f70acc6bc1e.png",
@@ -88,7 +89,7 @@
     "index.html": "/OxApp/index.html"
   },
   "entrypoints": [
-    "static/css/main.7cc0d908.css",
-    "static/js/main.3ff7faee.js"
+    "static/css/main.39ca146c.css",
+    "static/js/main.c4bdc764.js"
   ]
 }
